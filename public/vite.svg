@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="mountainGrad" x1="0%" y1="100%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#1a472a;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#2d5a3d;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <polygon points="50,15 85,85 15,85" fill="url(#mountainGrad)"/>
+  <polygon points="50,35 70,75 30,75" fill="#f5f0e6" opacity="0.3"/>
+  <circle cx="75" cy="25" r="8" fill="#e8a948"/>
+</svg>
+

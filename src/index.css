@@ -1,0 +1,123 @@
+:root {
+  --bg-primary: #0d1510;
+  --bg-secondary: #141f18;
+  --bg-card: #1a2a20;
+  --bg-card-hover: #223328;
+  --text-primary: #e8f0ea;
+  --text-secondary: #9eb3a5;
+  --text-muted: #5c7566;
+  --accent-primary: #4ade80;
+  --accent-secondary: #22c55e;
+  --accent-warm: #f59e0b;
+  --accent-warm-soft: #fbbf24;
+  --border-color: #2d4235;
+  --border-subtle: #1f3027;
+  --shadow-color: rgba(0, 0, 0, 0.4);
+  --gradient-mountain: linear-gradient(135deg, #1a472a 0%, #2d5a3d 50%, #1a472a 100%);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 16px;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'DM Sans', -apple-system, BlinkMacSystemFont, sans-serif;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  line-height: 1.6;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: 
+    radial-gradient(ellipse 80% 50% at 50% -20%, rgba(74, 222, 128, 0.08), transparent),
+    radial-gradient(ellipse 60% 40% at 100% 100%, rgba(34, 197, 94, 0.05), transparent),
+    radial-gradient(ellipse 40% 30% at 0% 80%, rgba(245, 158, 11, 0.03), transparent);
+  pointer-events: none;
+  z-index: -1;
+}
+
+#root {
+  min-height: 100vh;
+}
+
+::selection {
+  background: var(--accent-primary);
+  color: var(--bg-primary);
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-secondary);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--border-color);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--text-muted);
+}
+
+a {
+  color: var(--accent-primary);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--accent-warm-soft);
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+
+@keyframes pulse {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
