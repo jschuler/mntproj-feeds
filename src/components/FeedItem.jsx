@@ -89,6 +89,22 @@ function FeedItem({ item, index, expanded, onToggle }) {
 
   const cleanDesc = getCleanDescription()
   
+  // Extract YouTube video IDs from description
+  const getYouTubeVideos = () => {
+    const videos = []
+    // Match various YouTube URL formats
+    const youtubeRegex = /(?:https?:\/\/)?(?:www\.)?(?:youtube\.com\/watch\?v=|youtu\.be\/|youtube\.com\/embed\/)([a-zA-Z0-9_-]{11})(?:[&?][^\s<]*)?/g
+    let match
+    while ((match = youtubeRegex.exec(item.description)) !== null) {
+      if (!videos.includes(match[1])) {
+        videos.push(match[1])
+      }
+    }
+    return videos
+  }
+  
+  const youtubeVideos = getYouTubeVideos()
+  
   // Use ref to detect if text is actually truncated (only check when not expanded)
   const descRef = useRef(null)
   const [isTruncated, setIsTruncated] = useState(false)
@@ -123,15 +139,12 @@ function FeedItem({ item, index, expanded, onToggle }) {
         </div>
         
         <div className="feed-item-meta">
-          {item.grade && (
-            <span className="grade-badge">{item.grade}</span>
-          )}
           <time className="feed-item-date">{formatDate(item.pubDate)}</time>
         </div>
       </div>
       
       {/* Location Context */}
-      {item.targetItem && (
+      {item.targetRoute && (
         <div className="feed-item-location" onClick={(e) => e.stopPropagation()}>
           {item.locationPath && item.locationPath.length > 0 && (
             <div className="location-breadcrumb">
@@ -151,16 +164,16 @@ function FeedItem({ item, index, expanded, onToggle }) {
           )}
           
           <div className="target-item">
-            <span className={`target-type ${item.targetItem.type}`}>
-              {item.targetItem.type === 'route' ? '🧗' : '📍'}
+            <span className="target-type route">
+              🧗
             </span>
             <a 
-              href={item.targetItem.url} 
+              href={item.targetRoute.url} 
               target="_blank" 
               rel="noopener noreferrer"
               className="target-link"
             >
-              {item.targetItem.name}
+              {item.targetRoute.name}
             </a>
             {item.grade && (
               <span className="target-grade">{item.grade}</span>
@@ -195,6 +208,23 @@ function FeedItem({ item, index, expanded, onToggle }) {
                 {expanded ? 'Show less' : 'Show more'}
               </button>
             )}
+          </div>
+        )}
+        
+        {/* YouTube Embeds */}
+        {youtubeVideos.length > 0 && (
+          <div className="youtube-embeds">
+            {youtubeVideos.map((videoId) => (
+              <div key={videoId} className="youtube-embed">
+                <iframe
+                  src={`https://www.youtube.com/embed/${videoId}`}
+                  title="YouTube video"
+                  frameBorder="0"
+                  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                  allowFullScreen
+                />
+              </div>
+            ))}
           </div>
         )}
       </div>

@@ -1,6 +1,17 @@
 import './Header.css'
 
-function Header({ title, lastBuildDate, onRefresh, loading, itemCount, dateRange }) {
+function Header({ 
+  title, 
+  lastBuildDate, 
+  onRefresh, 
+  loading, 
+  itemCount, 
+  dateRange,
+  areas,
+  selectedArea,
+  setSelectedArea,
+  selectedAreaName,
+}) {
   const formatDate = (date) => {
     if (!date) return ''
     return new Intl.DateTimeFormat('en-US', {
@@ -55,7 +66,24 @@ function Header({ title, lastBuildDate, onRefresh, loading, itemCount, dateRange
         </div>
         
         <div className="header-main">
-          <span className="header-badge">Breaks Interstate Park</span>
+          {/* Area Selector */}
+          <div className="area-selector">
+            <select 
+              value={selectedArea} 
+              onChange={(e) => setSelectedArea(e.target.value)}
+              className="area-select"
+            >
+              {areas?.map(area => (
+                <option key={area.id} value={area.id}>
+                  {area.name}
+                </option>
+              ))}
+            </select>
+            <svg className="area-select-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <polyline points="6 9 12 15 18 9"/>
+            </svg>
+          </div>
+          
           <h1 className="header-title">Latest Updates</h1>
           <p className="header-subtitle">
             New routes, photos & beta from the climbing community
