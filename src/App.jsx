@@ -4,11 +4,14 @@ import './App.css'
 import FeedItem from './components/FeedItem'
 import Header from './components/Header'
 import FilterBar from './components/FilterBar'
+import Pagination from './components/Pagination'
 import LoadingState from './components/LoadingState'
 import ErrorState from './components/ErrorState'
+
+const PAGE_SIZE = 25
 import { AREAS, getAreaBySlug, feedDataPathForSlug } from './areas'
 import { parseMtnProjRssXml, createBrowserDocument } from './parseMtnProjRss'
-import { mergeFeedSnapshots, serializeFeedForStorage, reviveFeedFromStorage } from './mergeFeedSnapshots'
+import { mergeFeedSnapshots, reviveFeedFromStorage } from './mergeFeedSnapshots'
 
 // Build RSS URL for a specific area
 const getRssUrl = (areaId) =>
@@ -22,6 +25,7 @@ function App() {
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState(null)
   const [filter, setFilter] = useState('all')
+  const [page, setPage] = useState(1)
   const [expandedItems, setExpandedItems] = useState(new Set())
 
   const currentArea = getAreaBySlug(areaSlug)
@@ -73,22 +77,13 @@ function App() {
     }
   }
 
-  const exportArchiveJson = () => {
-    const feed = feedCache[selectedArea]
-    if (!feed?.items?.length) return
-    const payload = serializeFeedForStorage(feed)
-    const blob = new Blob([JSON.stringify(payload, null, 2)], { type: 'application/json' })
-    const url = URL.createObjectURL(blob)
-    const a = document.createElement('a')
-    a.href = url
-    a.download = `mntproj-feed-${currentArea.slug}-${new Date().toISOString().slice(0, 10)}.json`
-    a.click()
-    URL.revokeObjectURL(url)
-  }
-
   useEffect(() => {
     fetchFeed(selectedArea)
   }, [selectedArea])
+
+  useEffect(() => {
+    setPage(1)
+  }, [selectedArea, filter])
 
   const feed = feedCache[selectedArea]
 
@@ -114,6 +109,16 @@ function App() {
     if (filter === 'all') return true
     return item.type === filter
   })
+
+  const totalPages = Math.max(1, Math.ceil(filteredItems.length / PAGE_SIZE))
+  const safePage = Math.min(page, totalPages)
+  const pageStart = (safePage - 1) * PAGE_SIZE
+  const pagedItems = filteredItems.slice(pageStart, pageStart + PAGE_SIZE)
+
+  const handlePageChange = (next) => {
+    setPage(next)
+    window.scrollTo({ top: 0, behavior: 'smooth' })
+  }
 
   const typeCounts = feedItems.reduce((acc, item) => {
     acc[item.type] = (acc[item.type] || 0) + 1
@@ -163,17 +168,35 @@ function App() {
                   <p>No items match the current filter</p>
                 </div>
               ) : (
-                <div className="feed-list">
-                  {filteredItems.map((item, index) => (
-                    <FeedItem
-                      key={item.id}
-                      item={item}
-                      index={index}
-                      expanded={expandedItems.has(item.id)}
-                      onToggle={() => toggleExpanded(item.id)}
-                    />
-                  ))}
-                </div>
+                <>
+                  <Pagination
+                    placement="top"
+                    page={safePage}
+                    totalPages={totalPages}
+                    totalItems={filteredItems.length}
+                    pageSize={PAGE_SIZE}
+                    onPageChange={handlePageChange}
+                  />
+                  <div className="feed-list">
+                    {pagedItems.map((item, index) => (
+                      <FeedItem
+                        key={item.id}
+                        item={item}
+                        index={pageStart + index}
+                        expanded={expandedItems.has(item.id)}
+                        onToggle={() => toggleExpanded(item.id)}
+                      />
+                    ))}
+                  </div>
+                  <Pagination
+                    placement="bottom"
+                    page={safePage}
+                    totalPages={totalPages}
+                    totalItems={filteredItems.length}
+                    pageSize={PAGE_SIZE}
+                    onPageChange={handlePageChange}
+                  />
+                </>
               )}
             </div>
           </>
@@ -186,20 +209,6 @@ function App() {
           <span className="separator">•</span>
           <a href={`https://www.mountainproject.com/area/${selectedAreaInfo?.id}`} target="_blank" rel="noopener noreferrer">{selectedAreaInfo?.name}</a>
         </p>
-        <p className="footer-archive-hint">
-          The app loads <code>data/feeds/&lt;area&gt;.json</code> (from <code>npm run sync-feeds</code>) and merges the live RSS on each visit so you see new items without losing older ones that fell off the feed.
-        </p>
-        <div className="footer-archive-actions">
-          <button
-            type="button"
-            className="footer-link-btn"
-            onClick={exportArchiveJson}
-            disabled={!feedItems.length}
-            aria-label="Download merged view as JSON"
-          >
-            Export JSON
-          </button>
-        </div>
       </footer>
     </div>
   )
