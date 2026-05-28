@@ -1,0 +1,1010 @@
+{
+  "title": "New Routes, Areas, Comments, Photos on Mountain Project",
+  "description": "The Definitive Climbing Resource",
+  "lastBuildDate": "2026-05-28T13:37:41.000Z",
+  "items": [
+    {
+      "id": "MPObject_203001091",
+      "title": "Route: Johnny Man (5.13)",
+      "cleanTitle": "Johnny Man (5.13)",
+      "link": "https://www.mountainproject.com/route/203001091/johnny-man",
+      "pubDate": "2026-05-18T13:39:24.000Z",
+      "description": "<div class=\"fr-view\"><p>Closed project, do not climb</p></div><br /><img  class=\"\" src='' alt=\"\"><br><a href=\"https://www.mountainproject.com/area/105852400/virginia\">Virginia</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia\">Southwest Virgi&hellip;</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/108649375/guest-river-gorge\">Guest River Gorge</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/108650482/mile-three\">(3) Mile Three</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/113379302/mile-3-routes\">Mile 3 Routes</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/116076126/big-shot\">Big Shot</a>\n    <br>Shared By: Charlie Ritter",
+      "type": "route",
+      "imageUrl": null,
+      "grade": "5.13",
+      "sharedBy": "Charlie Ritter",
+      "breadcrumbs": [
+        {
+          "name": "Virginia",
+          "url": "https://www.mountainproject.com/area/105852400/virginia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Southwest Virginia Appalachia",
+          "url": "https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Guest River Gorge",
+          "url": "https://www.mountainproject.com/area/108649375/guest-river-gorge",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "(3) Mile Three",
+          "url": "https://www.mountainproject.com/area/108650482/mile-three",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Mile 3 Routes",
+          "url": "https://www.mountainproject.com/area/113379302/mile-3-routes",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Big Shot",
+          "url": "https://www.mountainproject.com/area/116076126/big-shot",
+          "type": "area",
+          "grade": null
+        }
+      ],
+      "targetRoute": null,
+      "locationPath": [
+        {
+          "name": "Guest River Gorge",
+          "url": "https://www.mountainproject.com/area/108649375/guest-river-gorge",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "(3) Mile Three",
+          "url": "https://www.mountainproject.com/area/108650482/mile-three",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Mile 3 Routes",
+          "url": "https://www.mountainproject.com/area/113379302/mile-3-routes",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Big Shot",
+          "url": "https://www.mountainproject.com/area/116076126/big-shot",
+          "type": "area",
+          "grade": null
+        }
+      ],
+      "areaId": "108649375",
+      "areaName": "Guest River Gorge"
+    },
+    {
+      "id": "MPObject_202947588",
+      "title": "Photo: Route photo pre bolts...",
+      "cleanTitle": "Route photo pre bolts...",
+      "link": "https://www.mountainproject.com/photo/202947588/route-photo-pre-bolts",
+      "pubDate": "2026-05-10T15:02:06.000Z",
+      "description": "Route photo pre bolts<br /><img  class=\"\" src='https://mountainproject.com/assets/photos/climb/202947588_smallMed_1778425326_topo.jpg?cache=1778454040' alt=\"Route photo pre bolts\"><br><a href=\"https://www.mountainproject.com/area/105852400/virginia\">Virginia</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia\">Southwest Virgi&hellip;</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/108649375/guest-river-gorge\">Guest River Gorge</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/108650482/mile-three\">(3) Mile Three</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/113379302/mile-3-routes\">Mile 3 Routes</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/111271148/big-shot-jr\">Big Shot Jr.</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/route/202947582/labor-of-love\">Labor of Love            (5.13)</a>\n    <br>Shared By: Kyle King",
+      "type": "photo",
+      "imageUrl": "https://mountainproject.com/assets/photos/climb/202947588_large_1778425326_topo.jpg?cache=1778454040",
+      "grade": "5.13",
+      "sharedBy": "Kyle King",
+      "breadcrumbs": [
+        {
+          "name": "Virginia",
+          "url": "https://www.mountainproject.com/area/105852400/virginia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Southwest Virginia Appalachia",
+          "url": "https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Guest River Gorge",
+          "url": "https://www.mountainproject.com/area/108649375/guest-river-gorge",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "(3) Mile Three",
+          "url": "https://www.mountainproject.com/area/108650482/mile-three",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Mile 3 Routes",
+          "url": "https://www.mountainproject.com/area/113379302/mile-3-routes",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Big Shot Jr.",
+          "url": "https://www.mountainproject.com/area/111271148/big-shot-jr",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Labor of Love",
+          "url": "https://www.mountainproject.com/route/202947582/labor-of-love",
+          "type": "route",
+          "grade": "5.13"
+        }
+      ],
+      "targetRoute": {
+        "name": "Labor of Love",
+        "url": "https://www.mountainproject.com/route/202947582/labor-of-love",
+        "type": "route",
+        "grade": "5.13"
+      },
+      "locationPath": [
+        {
+          "name": "Guest River Gorge",
+          "url": "https://www.mountainproject.com/area/108649375/guest-river-gorge",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "(3) Mile Three",
+          "url": "https://www.mountainproject.com/area/108650482/mile-three",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Mile 3 Routes",
+          "url": "https://www.mountainproject.com/area/113379302/mile-3-routes",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Big Shot Jr.",
+          "url": "https://www.mountainproject.com/area/111271148/big-shot-jr",
+          "type": "area",
+          "grade": null
+        }
+      ],
+      "areaId": "108649375",
+      "areaName": "Guest River Gorge"
+    },
+    {
+      "id": "MPObject_202947582",
+      "title": "Route: Labor of Love (5.13)",
+      "cleanTitle": "Labor of Love (5.13)",
+      "link": "https://www.mountainproject.com/route/202947582/labor-of-love",
+      "pubDate": "2026-05-10T15:01:24.000Z",
+      "description": "<div class=\"fr-view\"><p>Closed project please don&rsquo;t climb&nbsp;</p><p><br>Begins under the belly right of Slot Machine</p></div><br /><img  class=\"\" src='https://mountainproject.com/assets/photos/climb/202947588_smallMed_1778425326_topo.jpg?cache=1778454040' alt=\"Route photo pre bolts\"><br><a href=\"https://www.mountainproject.com/area/105852400/virginia\">Virginia</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia\">Southwest Virgi&hellip;</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/108649375/guest-river-gorge\">Guest River Gorge</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/108650482/mile-three\">(3) Mile Three</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/113379302/mile-3-routes\">Mile 3 Routes</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/111271148/big-shot-jr\">Big Shot Jr.</a>\n    <br>Shared By: Kyle King",
+      "type": "route",
+      "imageUrl": "https://mountainproject.com/assets/photos/climb/202947588_large_1778425326_topo.jpg?cache=1778454040",
+      "grade": "5.13",
+      "sharedBy": "Kyle King",
+      "breadcrumbs": [
+        {
+          "name": "Virginia",
+          "url": "https://www.mountainproject.com/area/105852400/virginia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Southwest Virginia Appalachia",
+          "url": "https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Guest River Gorge",
+          "url": "https://www.mountainproject.com/area/108649375/guest-river-gorge",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "(3) Mile Three",
+          "url": "https://www.mountainproject.com/area/108650482/mile-three",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Mile 3 Routes",
+          "url": "https://www.mountainproject.com/area/113379302/mile-3-routes",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Big Shot Jr.",
+          "url": "https://www.mountainproject.com/area/111271148/big-shot-jr",
+          "type": "area",
+          "grade": null
+        }
+      ],
+      "targetRoute": null,
+      "locationPath": [
+        {
+          "name": "Guest River Gorge",
+          "url": "https://www.mountainproject.com/area/108649375/guest-river-gorge",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "(3) Mile Three",
+          "url": "https://www.mountainproject.com/area/108650482/mile-three",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Mile 3 Routes",
+          "url": "https://www.mountainproject.com/area/113379302/mile-3-routes",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Big Shot Jr.",
+          "url": "https://www.mountainproject.com/area/111271148/big-shot-jr",
+          "type": "area",
+          "grade": null
+        }
+      ],
+      "areaId": "108649375",
+      "areaName": "Guest River Gorge"
+    },
+    {
+      "id": "MPObject_202932191",
+      "title": "Route: Jumping the Gun (5.10)",
+      "cleanTitle": "Jumping the Gun (5.10)",
+      "link": "https://www.mountainproject.com/route/202932191/jumping-the-gun",
+      "pubDate": "2026-05-08T13:26:12.000Z",
+      "description": "<div class=\"fr-view\"><p>Good start leads to ledge that is tricky to gain the upper face. Good movement but route needs to be edited.&nbsp;</p></div><br /><img  class=\"\" src='' alt=\"\"><br><a href=\"https://www.mountainproject.com/area/105852400/virginia\">Virginia</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia\">Southwest Virgi&hellip;</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/108649375/guest-river-gorge\">Guest River Gorge</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/108650482/mile-three\">(3) Mile Three</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/113379302/mile-3-routes\">Mile 3 Routes</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/111271148/big-shot-jr\">Big Shot Jr.</a>\n    <br>Shared By: Kyle King",
+      "type": "route",
+      "imageUrl": null,
+      "grade": "5.10",
+      "sharedBy": "Kyle King",
+      "breadcrumbs": [
+        {
+          "name": "Virginia",
+          "url": "https://www.mountainproject.com/area/105852400/virginia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Southwest Virginia Appalachia",
+          "url": "https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Guest River Gorge",
+          "url": "https://www.mountainproject.com/area/108649375/guest-river-gorge",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "(3) Mile Three",
+          "url": "https://www.mountainproject.com/area/108650482/mile-three",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Mile 3 Routes",
+          "url": "https://www.mountainproject.com/area/113379302/mile-3-routes",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Big Shot Jr.",
+          "url": "https://www.mountainproject.com/area/111271148/big-shot-jr",
+          "type": "area",
+          "grade": null
+        }
+      ],
+      "targetRoute": null,
+      "locationPath": [
+        {
+          "name": "Guest River Gorge",
+          "url": "https://www.mountainproject.com/area/108649375/guest-river-gorge",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "(3) Mile Three",
+          "url": "https://www.mountainproject.com/area/108650482/mile-three",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Mile 3 Routes",
+          "url": "https://www.mountainproject.com/area/113379302/mile-3-routes",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Big Shot Jr.",
+          "url": "https://www.mountainproject.com/area/111271148/big-shot-jr",
+          "type": "area",
+          "grade": null
+        }
+      ],
+      "areaId": "108649375",
+      "areaName": "Guest River Gorge"
+    },
+    {
+      "id": "MPObject_202932161",
+      "title": "Route: Mummies in the Dark (5.10)",
+      "cleanTitle": "Mummies in the Dark (5.10)",
+      "link": "https://www.mountainproject.com/route/202932161/mummies-in-the-dark",
+      "pubDate": "2026-05-08T13:07:32.000Z",
+      "description": "<div class=\"fr-view\"><p>Fun line that climbs the obvious arete left of the crack corner. Tricky gaining the face but enjoy climbing.&nbsp;</p><p>There is a trundle on this route that needs to come off, please be careful&nbsp;</p></div><br /><img  class=\"\" src='' alt=\"\"><br><a href=\"https://www.mountainproject.com/area/105852400/virginia\">Virginia</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia\">Southwest Virgi&hellip;</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/108649375/guest-river-gorge\">Guest River Gorge</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/108650482/mile-three\">(3) Mile Three</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/113379302/mile-3-routes\">Mile 3 Routes</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/111271148/big-shot-jr\">Big Shot Jr.</a>\n    <br>Shared By: Kyle King",
+      "type": "route",
+      "imageUrl": null,
+      "grade": "5.10",
+      "sharedBy": "Kyle King",
+      "breadcrumbs": [
+        {
+          "name": "Virginia",
+          "url": "https://www.mountainproject.com/area/105852400/virginia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Southwest Virginia Appalachia",
+          "url": "https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Guest River Gorge",
+          "url": "https://www.mountainproject.com/area/108649375/guest-river-gorge",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "(3) Mile Three",
+          "url": "https://www.mountainproject.com/area/108650482/mile-three",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Mile 3 Routes",
+          "url": "https://www.mountainproject.com/area/113379302/mile-3-routes",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Big Shot Jr.",
+          "url": "https://www.mountainproject.com/area/111271148/big-shot-jr",
+          "type": "area",
+          "grade": null
+        }
+      ],
+      "targetRoute": null,
+      "locationPath": [
+        {
+          "name": "Guest River Gorge",
+          "url": "https://www.mountainproject.com/area/108649375/guest-river-gorge",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "(3) Mile Three",
+          "url": "https://www.mountainproject.com/area/108650482/mile-three",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Mile 3 Routes",
+          "url": "https://www.mountainproject.com/area/113379302/mile-3-routes",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Big Shot Jr.",
+          "url": "https://www.mountainproject.com/area/111271148/big-shot-jr",
+          "type": "area",
+          "grade": null
+        }
+      ],
+      "areaId": "108649375",
+      "areaName": "Guest River Gorge"
+    },
+    {
+      "id": "MPObject_202927942",
+      "title": "Photo: Route Photo...",
+      "cleanTitle": "Route Photo...",
+      "link": "https://www.mountainproject.com/photo/202927942/route-photo",
+      "pubDate": "2026-05-07T16:09:15.000Z",
+      "description": "Route Photo<br /><img  class=\"\" src='https://mountainproject.com/assets/photos/climb/202927942_smallMed_1778170155.jpg?cache=1778256887' alt=\"Route Photo\"><br><a href=\"https://www.mountainproject.com/area/105852400/virginia\">Virginia</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia\">Southwest Virgi&hellip;</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/108649375/guest-river-gorge\">Guest River Gorge</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/108650482/mile-three\">(3) Mile Three</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/113379302/mile-3-routes\">Mile 3 Routes</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/111271148/big-shot-jr\">Big Shot Jr.</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/route/123534526/slot-machine\">Slot Machine            (5.12)</a>\n    <br>Shared By: Kyle King",
+      "type": "photo",
+      "imageUrl": "https://mountainproject.com/assets/photos/climb/202927942_large_1778170155.jpg?cache=1778256887",
+      "grade": "5.12",
+      "sharedBy": "Kyle King",
+      "breadcrumbs": [
+        {
+          "name": "Virginia",
+          "url": "https://www.mountainproject.com/area/105852400/virginia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Southwest Virginia Appalachia",
+          "url": "https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Guest River Gorge",
+          "url": "https://www.mountainproject.com/area/108649375/guest-river-gorge",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "(3) Mile Three",
+          "url": "https://www.mountainproject.com/area/108650482/mile-three",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Mile 3 Routes",
+          "url": "https://www.mountainproject.com/area/113379302/mile-3-routes",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Big Shot Jr.",
+          "url": "https://www.mountainproject.com/area/111271148/big-shot-jr",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Slot Machine",
+          "url": "https://www.mountainproject.com/route/123534526/slot-machine",
+          "type": "route",
+          "grade": "5.12"
+        }
+      ],
+      "targetRoute": {
+        "name": "Slot Machine",
+        "url": "https://www.mountainproject.com/route/123534526/slot-machine",
+        "type": "route",
+        "grade": "5.12"
+      },
+      "locationPath": [
+        {
+          "name": "Guest River Gorge",
+          "url": "https://www.mountainproject.com/area/108649375/guest-river-gorge",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "(3) Mile Three",
+          "url": "https://www.mountainproject.com/area/108650482/mile-three",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Mile 3 Routes",
+          "url": "https://www.mountainproject.com/area/113379302/mile-3-routes",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Big Shot Jr.",
+          "url": "https://www.mountainproject.com/area/111271148/big-shot-jr",
+          "type": "area",
+          "grade": null
+        }
+      ],
+      "areaId": "108649375",
+      "areaName": "Guest River Gorge"
+    },
+    {
+      "id": "MPObject_202923724",
+      "title": "Comment re: Long Term Investment: 3 star view from the top, 2 star movement, 1 star ...",
+      "cleanTitle": "3 star view from the top, 2 star movement, 1 star ...",
+      "link": "https://www.mountainproject.com/route/202913311/long-term-investment#Comment-202923724",
+      "pubDate": "2026-05-06T15:46:57.000Z",
+      "description": "3 star view from the top, 2 star movement, 1 star rock quality, zero star developers. Quality might be two star in parts, I cant tell since the holds weren't brushed and ticked for me.<br><a href=\"https://www.mountainproject.com/area/105852400/virginia\">Virginia</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia\">Southwest Virgi&hellip;</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/108649375/guest-river-gorge\">Guest River Gorge</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/108650466/mile-two\">(2) Mile Two</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/113379016/mile-two-routes\">Mile Two Routes</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/113965726/the-bank\">Bank</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/route/202913311/long-term-investment\">Long Term Investment            (5.10b)</a>\n    <br>Shared By: Aaron Parlier",
+      "type": "comment",
+      "imageUrl": null,
+      "grade": "5.10b",
+      "sharedBy": "Aaron Parlier",
+      "breadcrumbs": [
+        {
+          "name": "Virginia",
+          "url": "https://www.mountainproject.com/area/105852400/virginia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Southwest Virginia Appalachia",
+          "url": "https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Guest River Gorge",
+          "url": "https://www.mountainproject.com/area/108649375/guest-river-gorge",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "(2) Mile Two",
+          "url": "https://www.mountainproject.com/area/108650466/mile-two",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Mile Two Routes",
+          "url": "https://www.mountainproject.com/area/113379016/mile-two-routes",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Bank",
+          "url": "https://www.mountainproject.com/area/113965726/the-bank",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Long Term Investment",
+          "url": "https://www.mountainproject.com/route/202913311/long-term-investment",
+          "type": "route",
+          "grade": "5.10b"
+        }
+      ],
+      "targetRoute": {
+        "name": "Long Term Investment",
+        "url": "https://www.mountainproject.com/route/202913311/long-term-investment",
+        "type": "route",
+        "grade": "5.10b"
+      },
+      "locationPath": [
+        {
+          "name": "Guest River Gorge",
+          "url": "https://www.mountainproject.com/area/108649375/guest-river-gorge",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "(2) Mile Two",
+          "url": "https://www.mountainproject.com/area/108650466/mile-two",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Mile Two Routes",
+          "url": "https://www.mountainproject.com/area/113379016/mile-two-routes",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Bank",
+          "url": "https://www.mountainproject.com/area/113965726/the-bank",
+          "type": "area",
+          "grade": null
+        }
+      ],
+      "areaId": "108649375",
+      "areaName": "Guest River Gorge"
+    },
+    {
+      "id": "MPObject_202920212",
+      "title": "Comment re: Long Term Investment: 80 feet of pure retrobolted choss.  F the guest an...",
+      "cleanTitle": "80 feet of pure retrobolted choss. F the guest an...",
+      "link": "https://www.mountainproject.com/route/202913311/long-term-investment#Comment-202920212",
+      "pubDate": "2026-05-05T20:16:14.000Z",
+      "description": "80 feet of pure retrobolted choss.  F the guest and its developers<br><a href=\"https://www.mountainproject.com/area/105852400/virginia\">Virginia</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia\">Southwest Virgi&hellip;</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/108649375/guest-river-gorge\">Guest River Gorge</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/108650466/mile-two\">(2) Mile Two</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/113379016/mile-two-routes\">Mile Two Routes</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/113965726/the-bank\">Bank</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/route/202913311/long-term-investment\">Long Term Investment            (5.10b)</a>\n    <br>Shared By: B2 Mathisen",
+      "type": "comment",
+      "imageUrl": null,
+      "grade": "5.10b",
+      "sharedBy": "B2 Mathisen",
+      "breadcrumbs": [
+        {
+          "name": "Virginia",
+          "url": "https://www.mountainproject.com/area/105852400/virginia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Southwest Virginia Appalachia",
+          "url": "https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Guest River Gorge",
+          "url": "https://www.mountainproject.com/area/108649375/guest-river-gorge",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "(2) Mile Two",
+          "url": "https://www.mountainproject.com/area/108650466/mile-two",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Mile Two Routes",
+          "url": "https://www.mountainproject.com/area/113379016/mile-two-routes",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Bank",
+          "url": "https://www.mountainproject.com/area/113965726/the-bank",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Long Term Investment",
+          "url": "https://www.mountainproject.com/route/202913311/long-term-investment",
+          "type": "route",
+          "grade": "5.10b"
+        }
+      ],
+      "targetRoute": {
+        "name": "Long Term Investment",
+        "url": "https://www.mountainproject.com/route/202913311/long-term-investment",
+        "type": "route",
+        "grade": "5.10b"
+      },
+      "locationPath": [
+        {
+          "name": "Guest River Gorge",
+          "url": "https://www.mountainproject.com/area/108649375/guest-river-gorge",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "(2) Mile Two",
+          "url": "https://www.mountainproject.com/area/108650466/mile-two",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Mile Two Routes",
+          "url": "https://www.mountainproject.com/area/113379016/mile-two-routes",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Bank",
+          "url": "https://www.mountainproject.com/area/113965726/the-bank",
+          "type": "area",
+          "grade": null
+        }
+      ],
+      "areaId": "108649375",
+      "areaName": "Guest River Gorge"
+    },
+    {
+      "id": "MPObject_202913311",
+      "title": "Route: Long Term Investment (5.10b)",
+      "cleanTitle": "Long Term Investment (5.10b)",
+      "link": "https://www.mountainproject.com/route/202913311/long-term-investment",
+      "pubDate": "2026-05-04T16:56:14.000Z",
+      "description": "<div class=\"fr-view\"><p>Fun &amp; varied slab climbing leads to an engaging crux protecting the anchors.&nbsp;&nbsp;</p></div><br /><img  class=\"\" src='' alt=\"\"><br><a href=\"https://www.mountainproject.com/area/105852400/virginia\">Virginia</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia\">Southwest Virgi&hellip;</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/108649375/guest-river-gorge\">Guest River Gorge</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/108650466/mile-two\">(2) Mile Two</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/113379016/mile-two-routes\">Mile Two Routes</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/113965726/the-bank\">Bank</a>\n    <br>Shared By: Charlie Ritter",
+      "type": "route",
+      "imageUrl": null,
+      "grade": "5.10b",
+      "sharedBy": "Charlie Ritter",
+      "breadcrumbs": [
+        {
+          "name": "Virginia",
+          "url": "https://www.mountainproject.com/area/105852400/virginia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Southwest Virginia Appalachia",
+          "url": "https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Guest River Gorge",
+          "url": "https://www.mountainproject.com/area/108649375/guest-river-gorge",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "(2) Mile Two",
+          "url": "https://www.mountainproject.com/area/108650466/mile-two",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Mile Two Routes",
+          "url": "https://www.mountainproject.com/area/113379016/mile-two-routes",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Bank",
+          "url": "https://www.mountainproject.com/area/113965726/the-bank",
+          "type": "area",
+          "grade": null
+        }
+      ],
+      "targetRoute": null,
+      "locationPath": [
+        {
+          "name": "Guest River Gorge",
+          "url": "https://www.mountainproject.com/area/108649375/guest-river-gorge",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "(2) Mile Two",
+          "url": "https://www.mountainproject.com/area/108650466/mile-two",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Mile Two Routes",
+          "url": "https://www.mountainproject.com/area/113379016/mile-two-routes",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Bank",
+          "url": "https://www.mountainproject.com/area/113965726/the-bank",
+          "type": "area",
+          "grade": null
+        }
+      ],
+      "areaId": "108649375",
+      "areaName": "Guest River Gorge"
+    },
+    {
+      "id": "MPObject_202695348",
+      "title": "Comment re: Financial Advice: Classic 2 star 5.11 slab to classic 2 star dirt 5....",
+      "cleanTitle": "Classic 2 star 5.11 slab to classic 2 star dirt 5....",
+      "link": "https://www.mountainproject.com/route/202644303/financial-advice#Comment-202695348",
+      "pubDate": "2026-04-02T01:14:04.000Z",
+      "description": "Classic 2 star 5.11 slab to classic 2 star dirt 5.9 = 4 stars<br><a href=\"https://www.mountainproject.com/area/105852400/virginia\">Virginia</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia\">Southwest Virgi&hellip;</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/108649375/guest-river-gorge\">Guest River Gorge</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/108650466/mile-two\">(2) Mile Two</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/113379016/mile-two-routes\">Mile Two Routes</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/113965726/the-bank\">Bank</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/route/202644303/financial-advice\">Financial Advice            (5.11+)</a>\n    <br>Shared By: B2 Mathisen",
+      "type": "comment",
+      "imageUrl": null,
+      "grade": "5.11+",
+      "sharedBy": "B2 Mathisen",
+      "breadcrumbs": [
+        {
+          "name": "Virginia",
+          "url": "https://www.mountainproject.com/area/105852400/virginia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Southwest Virginia Appalachia",
+          "url": "https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Guest River Gorge",
+          "url": "https://www.mountainproject.com/area/108649375/guest-river-gorge",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "(2) Mile Two",
+          "url": "https://www.mountainproject.com/area/108650466/mile-two",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Mile Two Routes",
+          "url": "https://www.mountainproject.com/area/113379016/mile-two-routes",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Bank",
+          "url": "https://www.mountainproject.com/area/113965726/the-bank",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Financial Advice",
+          "url": "https://www.mountainproject.com/route/202644303/financial-advice",
+          "type": "route",
+          "grade": "5.11+"
+        }
+      ],
+      "targetRoute": {
+        "name": "Financial Advice",
+        "url": "https://www.mountainproject.com/route/202644303/financial-advice",
+        "type": "route",
+        "grade": "5.11+"
+      },
+      "locationPath": [
+        {
+          "name": "Guest River Gorge",
+          "url": "https://www.mountainproject.com/area/108649375/guest-river-gorge",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "(2) Mile Two",
+          "url": "https://www.mountainproject.com/area/108650466/mile-two",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Mile Two Routes",
+          "url": "https://www.mountainproject.com/area/113379016/mile-two-routes",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Bank",
+          "url": "https://www.mountainproject.com/area/113965726/the-bank",
+          "type": "area",
+          "grade": null
+        }
+      ],
+      "areaId": "108649375",
+      "areaName": "Guest River Gorge"
+    },
+    {
+      "id": "MPObject_202644303",
+      "title": "Route: Financial Advice (5.11+)",
+      "cleanTitle": "Financial Advice (5.11+)",
+      "link": "https://www.mountainproject.com/route/202644303/financial-advice",
+      "pubDate": "2026-03-25T12:58:57.000Z",
+      "description": "<div class=\"fr-view\"><p>A few bolts of hard, technical face climbing leads to an easy romp to the anchors. It's short lived, but has great engaging movement throughout.</p></div><br /><img  class=\"\" src='' alt=\"\"><br><a href=\"https://www.mountainproject.com/area/105852400/virginia\">Virginia</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia\">Southwest Virgi&hellip;</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/108649375/guest-river-gorge\">Guest River Gorge</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/108650466/mile-two\">(2) Mile Two</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/113379016/mile-two-routes\">Mile Two Routes</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/113965726/the-bank\">Bank</a>\n    <br>Shared By: Charlie Ritter",
+      "type": "route",
+      "imageUrl": null,
+      "grade": "5.11+",
+      "sharedBy": "Charlie Ritter",
+      "breadcrumbs": [
+        {
+          "name": "Virginia",
+          "url": "https://www.mountainproject.com/area/105852400/virginia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Southwest Virginia Appalachia",
+          "url": "https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Guest River Gorge",
+          "url": "https://www.mountainproject.com/area/108649375/guest-river-gorge",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "(2) Mile Two",
+          "url": "https://www.mountainproject.com/area/108650466/mile-two",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Mile Two Routes",
+          "url": "https://www.mountainproject.com/area/113379016/mile-two-routes",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Bank",
+          "url": "https://www.mountainproject.com/area/113965726/the-bank",
+          "type": "area",
+          "grade": null
+        }
+      ],
+      "targetRoute": null,
+      "locationPath": [
+        {
+          "name": "Guest River Gorge",
+          "url": "https://www.mountainproject.com/area/108649375/guest-river-gorge",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "(2) Mile Two",
+          "url": "https://www.mountainproject.com/area/108650466/mile-two",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Mile Two Routes",
+          "url": "https://www.mountainproject.com/area/113379016/mile-two-routes",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Bank",
+          "url": "https://www.mountainproject.com/area/113965726/the-bank",
+          "type": "area",
+          "grade": null
+        }
+      ],
+      "areaId": "108649375",
+      "areaName": "Guest River Gorge"
+    },
+    {
+      "id": "MPObject_202636824",
+      "title": "Route: Crimps Rule Everything Around Me (CREAM) (5.10-)",
+      "cleanTitle": "Crimps Rule Everything Around Me (CREAM) (5.10-)",
+      "link": "https://www.mountainproject.com/route/202636824/crimps-rule-everything-around-me-cream",
+      "pubDate": "2026-03-23T23:39:47.000Z",
+      "description": "<div class=\"fr-view\"><p>it was not too hard at the start then at the middle the crux is slabby. &nbsp;the top has a lot of pockets and the view is beautiful.</p></div><br /><img  class=\"\" src='' alt=\"\"><br><a href=\"https://www.mountainproject.com/area/105852400/virginia\">Virginia</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia\">Southwest Virgi&hellip;</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/108649375/guest-river-gorge\">Guest River Gorge</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/108650466/mile-two\">(2) Mile Two</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/113379016/mile-two-routes\">Mile Two Routes</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/113965726/the-bank\">Bank</a>\n    <br>Shared By: B2 Mathisen",
+      "type": "route",
+      "imageUrl": null,
+      "grade": "CREAM",
+      "sharedBy": "B2 Mathisen",
+      "breadcrumbs": [
+        {
+          "name": "Virginia",
+          "url": "https://www.mountainproject.com/area/105852400/virginia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Southwest Virginia Appalachia",
+          "url": "https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Guest River Gorge",
+          "url": "https://www.mountainproject.com/area/108649375/guest-river-gorge",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "(2) Mile Two",
+          "url": "https://www.mountainproject.com/area/108650466/mile-two",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Mile Two Routes",
+          "url": "https://www.mountainproject.com/area/113379016/mile-two-routes",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Bank",
+          "url": "https://www.mountainproject.com/area/113965726/the-bank",
+          "type": "area",
+          "grade": null
+        }
+      ],
+      "targetRoute": null,
+      "locationPath": [
+        {
+          "name": "Guest River Gorge",
+          "url": "https://www.mountainproject.com/area/108649375/guest-river-gorge",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "(2) Mile Two",
+          "url": "https://www.mountainproject.com/area/108650466/mile-two",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Mile Two Routes",
+          "url": "https://www.mountainproject.com/area/113379016/mile-two-routes",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Bank",
+          "url": "https://www.mountainproject.com/area/113965726/the-bank",
+          "type": "area",
+          "grade": null
+        }
+      ],
+      "areaId": "108649375",
+      "areaName": "Guest River Gorge"
+    }
+  ]
+}

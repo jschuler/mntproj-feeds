@@ -1,0 +1,232 @@
+{
+  "title": "New Routes, Areas, Comments, Photos on Mountain Project",
+  "description": "The Definitive Climbing Resource",
+  "lastBuildDate": "2026-05-28T13:37:42.000Z",
+  "items": [
+    {
+      "id": "MPObject_202962654",
+      "title": "Comment re: Doom Boulder: Headed out there this weekend, wondering where is ...",
+      "cleanTitle": "Headed out there this weekend, wondering where is ...",
+      "link": "https://www.mountainproject.com/area/124560710/doom-boulder#Comment-202962654",
+      "pubDate": "2026-05-12T14:28:48.000Z",
+      "description": "Headed out there this weekend, wondering where is this boulder located in comparison to the other LRT boulders?<br><a href=\"https://www.mountainproject.com/area/105852400/virginia\">Virginia</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia\">Southwest Virgi&hellip;</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/106477419/grayson-highlands-state-park\">Grayson Highlan&hellip;</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/107281942/listening-rock-trail\">Listening Rock&hellip;</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/107281983/overlook-area\">1. Overlook Area</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/124560710/doom-boulder\">Doom Boulder</a>\n    <br>Shared By: Matt Giddings",
+      "type": "comment",
+      "imageUrl": null,
+      "grade": null,
+      "sharedBy": "Matt Giddings",
+      "breadcrumbs": [
+        {
+          "name": "Virginia",
+          "url": "https://www.mountainproject.com/area/105852400/virginia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Southwest Virginia Appalachia",
+          "url": "https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Grayson Highlands State Park",
+          "url": "https://www.mountainproject.com/area/106477419/grayson-highlands-state-park",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Listening Rock Trail",
+          "url": "https://www.mountainproject.com/area/107281942/listening-rock-trail",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "1. Overlook Area",
+          "url": "https://www.mountainproject.com/area/107281983/overlook-area",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Doom Boulder",
+          "url": "https://www.mountainproject.com/area/124560710/doom-boulder",
+          "type": "area",
+          "grade": null
+        }
+      ],
+      "targetRoute": null,
+      "locationPath": [
+        {
+          "name": "Grayson Highlands State Park",
+          "url": "https://www.mountainproject.com/area/106477419/grayson-highlands-state-park",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Listening Rock Trail",
+          "url": "https://www.mountainproject.com/area/107281942/listening-rock-trail",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "1. Overlook Area",
+          "url": "https://www.mountainproject.com/area/107281983/overlook-area",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Doom Boulder",
+          "url": "https://www.mountainproject.com/area/124560710/doom-boulder",
+          "type": "area",
+          "grade": null
+        }
+      ],
+      "areaId": "106477419",
+      "areaName": "Grayson Highlands State Park"
+    },
+    {
+      "id": "MPObject_202958094",
+      "title": "Route: Man of Constant Sorrow (V5)",
+      "cleanTitle": "Man of Constant Sorrow (V5)",
+      "link": "https://www.mountainproject.com/route/202958094/man-of-constant-sorrow",
+      "pubDate": "2026-05-11T17:49:20.000Z",
+      "description": "<div class=\"fr-view\"><p>Very committing. Best to drop a rope for this one, and expect it to need some brushing as it gets very little traffic.&nbsp;</p><p>Start and climb as per Crooked Road but instead of going right, climb straight up the steep highball past small holds and a big lock-off to the top. Scope out the top before doing this line and bring all your pads and a host of spotters.</p></div><br /><img  class=\"\" src='' alt=\"\"><br><a href=\"https://www.mountainproject.com/area/105852400/virginia\">Virginia</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia\">Southwest Virgi&hellip;</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/106477419/grayson-highlands-state-park\">Grayson Highlan&hellip;</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/106634018/boneyard-area\">Boneyard Area</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/107193099/crooked-road-boulder\">Crooked Rd Boulder</a>\n    <br>Shared By: Aaron Parlier",
+      "type": "route",
+      "imageUrl": null,
+      "grade": "V5",
+      "sharedBy": "Aaron Parlier",
+      "breadcrumbs": [
+        {
+          "name": "Virginia",
+          "url": "https://www.mountainproject.com/area/105852400/virginia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Southwest Virginia Appalachia",
+          "url": "https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Grayson Highlands State Park",
+          "url": "https://www.mountainproject.com/area/106477419/grayson-highlands-state-park",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Boneyard Area",
+          "url": "https://www.mountainproject.com/area/106634018/boneyard-area",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Crooked Rd Boulder",
+          "url": "https://www.mountainproject.com/area/107193099/crooked-road-boulder",
+          "type": "area",
+          "grade": null
+        }
+      ],
+      "targetRoute": null,
+      "locationPath": [
+        {
+          "name": "Grayson Highlands State Park",
+          "url": "https://www.mountainproject.com/area/106477419/grayson-highlands-state-park",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Boneyard Area",
+          "url": "https://www.mountainproject.com/area/106634018/boneyard-area",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Crooked Rd Boulder",
+          "url": "https://www.mountainproject.com/area/107193099/crooked-road-boulder",
+          "type": "area",
+          "grade": null
+        }
+      ],
+      "areaId": "106477419",
+      "areaName": "Grayson Highlands State Park"
+    },
+    {
+      "id": "MPObject_202957630",
+      "title": "Route: Free Will (V12)",
+      "cleanTitle": "Free Will (V12)",
+      "link": "https://www.mountainproject.com/route/202957630/free-will",
+      "pubDate": "2026-05-11T16:30:55.000Z",
+      "description": "<div class=\"fr-view\"><p>Colin Bauer quietly FA'd this monstrosity on 9/9/23</p><p>Start as per \"Freedom Fries\" but stay left of the Fulgora crack, climbing straight up into and joining \"Will to Live\" to finish the line. Way to go Colin!</p></div><br /><img  class=\"\" src='' alt=\"\"><br><a href=\"https://www.mountainproject.com/area/105852400/virginia\">Virginia</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia\">Southwest Virgi&hellip;</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/106477419/grayson-highlands-state-park\">Grayson Highlan&hellip;</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/106521343/picnic-area\">Picnic Area</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/113228283/picnic-area-boulders\">Picnic Area Bou&hellip;</a>\n        \n             &gt; <a href=\"https://www.mountainproject.com/area/106522335/olympus-boulder\">Olympus Boulder</a>\n    <br>Shared By: Aaron Parlier",
+      "type": "route",
+      "imageUrl": null,
+      "grade": "V12",
+      "sharedBy": "Aaron Parlier",
+      "breadcrumbs": [
+        {
+          "name": "Virginia",
+          "url": "https://www.mountainproject.com/area/105852400/virginia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Southwest Virginia Appalachia",
+          "url": "https://www.mountainproject.com/area/110848199/southwest-virginia-appalachia",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Grayson Highlands State Park",
+          "url": "https://www.mountainproject.com/area/106477419/grayson-highlands-state-park",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Picnic Area",
+          "url": "https://www.mountainproject.com/area/106521343/picnic-area",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Picnic Area Boulders",
+          "url": "https://www.mountainproject.com/area/113228283/picnic-area-boulders",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Olympus Boulder",
+          "url": "https://www.mountainproject.com/area/106522335/olympus-boulder",
+          "type": "area",
+          "grade": null
+        }
+      ],
+      "targetRoute": null,
+      "locationPath": [
+        {
+          "name": "Grayson Highlands State Park",
+          "url": "https://www.mountainproject.com/area/106477419/grayson-highlands-state-park",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Picnic Area",
+          "url": "https://www.mountainproject.com/area/106521343/picnic-area",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Picnic Area Boulders",
+          "url": "https://www.mountainproject.com/area/113228283/picnic-area-boulders",
+          "type": "area",
+          "grade": null
+        },
+        {
+          "name": "Olympus Boulder",
+          "url": "https://www.mountainproject.com/area/106522335/olympus-boulder",
+          "type": "area",
+          "grade": null
+        }
+      ],
+      "areaId": "106477419",
+      "areaName": "Grayson Highlands State Park"
+    }
+  ]
+}
